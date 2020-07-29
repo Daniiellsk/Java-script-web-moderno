@@ -1,2 +1,2 @@
 # Java script web-moderno
- Curso de web moderrno java script, HTML, CSS e etc...
+ Primeiro repositorio criado para o curso de web moderno 
