@@ -9,7 +9,9 @@ function seforverdade(valor){
 seforverdade()
 seforverdade(null
 seforverdade(NaN)
+
 seforverdade(undefined)
+
 seforverdade('')
 seforverdade(0)
 seforverdade(-1)
