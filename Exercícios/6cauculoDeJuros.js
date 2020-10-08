@@ -12,4 +12,4 @@ function jurosComposto (capitalInicia, taxaDeJuros, tempoDeAplicação) {
     console.log(montante)
 }
 
-jurosComposto(5000, 0.01, 6)
+jurosComposto(677, 0.05, 3)
