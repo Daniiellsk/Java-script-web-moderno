@@ -11,9 +11,9 @@ isAtivo = 0
 console.log(!!isAtivo)
 
 console.log('Os Verdadeiros...')
-console.log(!!3)
-console.log(!!-1)
-console.log(!!' ')
+console.log('1',!!3)
+console.log('2', !!-1)
+console.log('3', 131, !!' ')
 console.log(!!'texto')
 console.log(!![])
 console.log(!!{})
@@ -33,3 +33,7 @@ console.log(!!(''|| null || 0 || ' '))
 
 let nome = 'lucas'
 console.log(nome || 'Desconecido')
+
+        
+    
+
